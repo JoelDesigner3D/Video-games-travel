@@ -16,7 +16,7 @@ public class TestManager : MonoBehaviour
     void Start()
     {
         userMessage.enabled = false;
-        exercice.SetActive(false);
+        //exercice.SetActive(false);
     }
 
 
@@ -29,7 +29,7 @@ public class TestManager : MonoBehaviour
         }
         */
         userMessage.enabled = true;
-        exercice.SetActive(true);
+        //exercice.SetActive(true);
     }
 
     public void hideEnigme()
@@ -41,7 +41,7 @@ public class TestManager : MonoBehaviour
         }
         */
         userMessage.enabled = false;
-        exercice.SetActive(false);
+        //exercice.SetActive(false);
     }
 
     public void SetPassedTest(bool result)
