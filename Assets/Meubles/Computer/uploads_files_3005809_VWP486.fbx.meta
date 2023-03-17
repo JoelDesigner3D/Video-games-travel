@@ -3,7 +3,82 @@ guid: 05b7519a8a07b924c800799ace9ab80a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackGlass
+    second: {fileID: 2100000, guid: 4a4a23a5d5b55b14a93bc6035cde75b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPl
+    second: {fileID: 2100000, guid: 984da99d967edea46b993999162753dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic
+    second: {fileID: 2100000, guid: c7ac0e2b05b467549a6359639fef669b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic.001
+    second: {fileID: 2100000, guid: b0473a18572cff647b568d04221a2778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic.002
+    second: {fileID: 2100000, guid: 5733ff6f5f1d24b4987de6efe9720e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DX2
+    second: {fileID: 2100000, guid: 26fff6da3cfa62c4e89854a944fa7f7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrayGlass
+    second: {fileID: 2100000, guid: 9ee256bab13d16047a465945f82c9134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenGlass
+    second: {fileID: 2100000, guid: c69f2ddea5769494aa309bb6babe35b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: f287846d7c7ffd34591b97735b32a536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 0d027741e7427854e95ad852bc262fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticBlue
+    second: {fileID: 2100000, guid: 19a181a61d092f94f83f21944b03a696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticGray
+    second: {fileID: 2100000, guid: c0dece0425f050041ada0c500715567d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticRED
+    second: {fileID: 2100000, guid: 65c751c0f613a794191fe9ab37e297e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WINLOGO
+    second: {fileID: 2100000, guid: 289f80d71a667e34480cc31e5656e100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowGlass
+    second: {fileID: 2100000, guid: 114947c393e8b3e4b9c3bf5d47789bc3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
