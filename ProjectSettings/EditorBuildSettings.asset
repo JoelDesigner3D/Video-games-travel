@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LogIn.unity
+    guid: b28225fc47ad4a14fa4b87705dcea859
+  - enabled: 1
     path: Assets/Scenes/Jo_Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/RoomEnigme.unity
+    guid: b3f3e313d21df3b45bcf3d7b334455d6
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 806eba62d4f572e4da11cb40df984e2b
+  - enabled: 1
+    path: Assets/Scenes/BreakRoom.unity
+    guid: bce05ce88d82c2a41a124a54d4ab0b3e
+  - enabled: 1
+    path: Assets/Scenes/EndRoom.unity
+    guid: 8ffd4b98bd31d9e47bd733af39df294a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
